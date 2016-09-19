@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+node_modules
+.idea/angular2-forms.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+app/app.component.js
+app/app.component.js.map
+app/app.component.spec.js
+app/app.component.spec.js.map
+app/app.module.js
+app/app.module.js.map
+app/hero.js
+app/hero.js.map
+app/main.js
+app/main.js.map
+e2e/app.e2e-spec.js
+e2e/app.e2e-spec.js.map
